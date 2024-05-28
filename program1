@@ -1,0 +1,8 @@
+#sample to test merge conflict
+x=2
+y=2.8
+z=6
+
+print(type(x))
+print(type(y))
+print(type(z))
