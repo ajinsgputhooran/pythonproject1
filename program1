@@ -1,6 +1,6 @@
 #sample to test merge conflict
 x=2
-y=2.8
+y=5.6
 z=6
 
 print(type(x))
